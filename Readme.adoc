@@ -1,0 +1,1 @@
+Modified USBHost library for Arduino SAMD boards that also supports the Vive tracker (requires at least tracker firmware v.20). For an USBHost library supporting Vive tracker for Arduino SAM boards see [here](https://github.com/matzman666/USBHost).
